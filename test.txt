@@ -1,1 +1,12 @@
-My first text file on git.
+ Step to be followed.
+
+1) Download Git.
+2) install it in laptop(comand line)
+3) Make Repository on github.
+4) Configure git with git hub repository using bash.
+  1) Configure the user name
+    git config --global user.name "Sajidnaeem056@gmail.com"
+  2) Configure the email address 
+    git config --global user.email Sajidnaeem056@gmail.com
+5) Clone the github repository
+  -- git clone https://github.com/sajidnaeem056/TestGit.git
