@@ -20,5 +20,5 @@
       first time, then you also give your username and password.
     $ git commite -m "Comments for modification"
    3) Now push the project on git.
-    $ git push -u origin master.   
+    $ git push -u origin master. ( why - U ?)
 8) Move back to your git repository and refresh the you see the newly created and modified files.  
